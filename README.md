@@ -1,4 +1,4 @@
-<h1 align='center'> Welcome to my profile. I'm Ahmet!</h1>
+<h1> Welcome to my profile.</h1>
 
 <p>
   <b>I've been developing things.</b>
