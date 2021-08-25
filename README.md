@@ -4,8 +4,11 @@
   <b>I've been developing things.</b>
 </p>
 
-<p align='center'>
-  <a href="https://www.linkedin.com/in/ahmet-kazak/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<p>
+  <a href="https://www.linkedin.com/in/ahmet-kazak/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/ahmetakahs/"><img src="https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
