@@ -1,6 +1,6 @@
 <h1 align='center'> Welcome to my profile. I'm Ahmet!</h1>
 
-<p align='center'>
+<p>
   <b>I've been developing things.</b>
 </p>
 
